@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sentence-transformers
+pinecone-client
+boto3
+python-dotenv
+PyMuPDF
