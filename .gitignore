@@ -58,4 +58,15 @@ coverage/
 # =========================
 *.tgz
 *.lock
+
+
+
 venv/
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+*.onnx
+.env
