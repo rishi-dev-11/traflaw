@@ -130,7 +130,7 @@ No Indian traffic-law AI	Traffic-specific legal corpus
 LLM hallucinations	RAG with official statutes
 Poor accessibility	Chat-based legal assistant
 Weak evaluation	Legal expert review
-🚀 Key Contributions
+ Key Contributions
 
 First traffic-law-focused AI assistant for India
 
@@ -155,7 +155,4 @@ E-Challan integration
 
 Expansion to other Indian legal domains
 
-👨‍💻 Author
-
-Rishi Tiwadi
-MCA | MERN Stack Developer and AI Learner 
+ 
